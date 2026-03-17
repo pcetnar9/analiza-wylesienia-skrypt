@@ -4,7 +4,7 @@ Analiza Wylesiania na Podstawie Zdjęć Satelitarnych
 ![Matplotlib](https://img.shields.io/badge/matplotlib-%23ffffff.svg?logo=Matplotlib&logoColor=black)
 ![Rasterio](https://img.shields.io/badge/rasterio-geospatial-green.svg)
 
-O projekcie
+
 Projekt ten zawiera skrypty w języku Python służące do automatycznej analizy zmian zakresu zalesienia na przestrzeni lat (1985, 1993, 2001, 2011). Badania opierają się na przetwarzaniu obrazów satelitarnych w celu identyfikacji postępującego wylesiania.
 
 Analiza została podzielona na dwa główne moduły:
